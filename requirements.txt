@@ -1,0 +1,3 @@
+qianfan
+certifi
+openai
